@@ -27,7 +27,18 @@
             "MD5": "f202df135ad32fef7e7c42e957c142af",
             "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/forge-47.4.10/forge-1.20.1-47.4.10-universal.jar"
           },
-          "subModules": []
+          "subModules": [
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:version",
+              "name": "Forge Version Manifest",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "eede38b0c090f69c7789cd35e753853d",
+                "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/forge-47.4.10/1.20.1-forge-47.4.10.json"
+              }
+            }
+          ]
         }
       ]
     }

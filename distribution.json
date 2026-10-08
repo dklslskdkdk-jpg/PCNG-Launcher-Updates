@@ -1,11 +1,23 @@
 
 {
   "version": "1.0.0",
+  "rss": "",
   "discord": {
     "clientId": "",
     "smallImageText": "PCNG Launcher",
     "smallImageKey": ""
   },
-  "rss": "",
-  "servers": []
+  "servers": [
+    {
+      "id": "PCNG-1.20.1",
+      "name": "PCNG",
+      "description": "PCNG - Minecraft Forge 1.20.1",
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
 }

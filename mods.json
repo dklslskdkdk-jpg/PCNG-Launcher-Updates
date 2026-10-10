@@ -243,6 +243,12 @@
       "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
       "size": 3185275,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/citadel-2.6.3-1.20.1.jar"
+    },
+    {
+      "file": "CrewSpawn-Forge-1.20.1-1.0.0.jar",
+      "sha256": "7b84f0b4be8746d90e08f1d8a805c3ae224ebc26bb3e6c8ff9b0c564746ca2fa",
+      "size": 7892,
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewSpawn-Forge-1.20.1-1.0.0.jar"
     }
   ]
 }

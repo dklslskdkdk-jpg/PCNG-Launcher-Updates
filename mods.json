@@ -1,5 +1,5 @@
 {
-  "packVersion": 10,
+  "packVersion": 11,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -132,8 +132,8 @@
     },
     {
       "file": "morpher-1.0.8-carpetas-fix.jar",
-      "sha256": "04e666f6aa8e637c7f0f9e5245cec614a56233fb3746227df1b80ae9045fd070",
-      "size": 185383,
+      "sha256": "73ecc7fdd2a76ab9d3e8dcd42e60e897d3f63c15011ab56a9df93ceac38c966d",
+      "size": 186196,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/morpher-1.0.8-carpetas-fix.jar"
     },
     {

@@ -1,131 +1,3 @@
-{
-  "packVersion": 3,
-  "minecraft": "1.20.1",
-  "loader": "forge",
-  "server": "15.204.49.1:25600",
-  "mods": [
-    {
-      "file": "BluAltura-1.1.0-MAGMA-SIN-MENSAJES.jar",
-      "sha256": "7080d44c4e7155759642d2ec6fe8f8eb57d7e0260fe689cd94e335fbf9f2ac0b",
-      "size": 6732,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/BluAltura-1.1.0-MAGMA-SIN-MENSAJES.jar"
-    },
-    {
-      "file": "Connector-1.0.0-beta.49+1.20.1.jar",
-      "sha256": "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f",
-      "size": 5046108,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Connector-1.0.0-beta.49%2B1.20.1.jar"
-    },
-    {
-      "file": "DEDSAFIO4-Forge-1.20.1.jar",
-      "sha256": "0773df9374d52e8642742adc72880895ac466d37ddeeb1af387b7eb4410aa8c6",
-      "size": 167683503,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-Forge-1.20.1.jar"
-    },
-    {
-      "file": "ImmersiveUI-FORGE-0.3.0.jar",
-      "sha256": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
-      "size": 401514,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/ImmersiveUI-FORGE-0.3.0.jar"
-    },
-    {
-      "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
-      "size": 424035,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
-    },
-    {
-      "file": "Pehkui-3.8.2+1.20.1-forge.jar",
-      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
-      "size": 671605,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Pehkui-3.8.2%2B1.20.1-forge.jar"
-    },
-    {
-      "file": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
-      "sha256": "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f",
-      "size": 517225,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
-    },
-    {
-      "file": "amendments-1.20-2.2.6.jar",
-      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917",
-      "size": 1315525,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/amendments-1.20-2.2.6.jar"
-    },
-    {
-      "file": "architectury-9.2.14-forge.jar",
-      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
-      "size": 580602,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/architectury-9.2.14-forge.jar"
-    },
-    {
-      "file": "balm-forge-1.20.1-7.3.44.jar",
-      "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
-      "size": 561741,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/balm-forge-1.20.1-7.3.44.jar"
-    },
-    {
-      "file": "creeperoverhaul-3.0.2-forge.jar",
-      "sha256": "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9",
-      "size": 1456860,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/creeperoverhaul-3.0.2-forge.jar"
-    },
-    {
-      "file": "custom-glow-enchantment-outline-forge-1.20.1-1.2.3.jar",
-      "sha256": "96f4e3ed95720ddb9c3193f7948d5331aa7343f03b264f43a2e90b85572c1c2e",
-      "size": 668498,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/custom-glow-enchantment-outline-forge-1.20.1-1.2.3.jar"
-    },
-    {
-      "file": "cwb-forge-3.0.0+mc1.20.jar",
-      "sha256": "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478",
-      "size": 258613,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/cwb-forge-3.0.0%2Bmc1.20.jar"
-    },
-    {
-      "file": "dedsafio3-0.0.9-forge-1.20.1 (1).jar",
-      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6",
-      "size": 7366550,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1.1.jar"
-    },
-    {
-      "file": "explosiveenhancement-1.2.0.jar",
-      "sha256": "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
-      "size": 97476,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/explosiveenhancement-1.2.0.jar"
-    },
-    {
-      "file": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
-      "sha256": "ffb61c81b9025297048fd647902f4c67c016073c0e94da100125e9aa1168c194",
-      "size": 3065815,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/fabric-api-0.92.6%2B1.11.15%2B1.20.1.jar"
-    },
-    {
-      "file": "geckolib-forge-1.20.1-4.8.4.jar",
-      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
-      "size": 1038209,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/geckolib-forge-1.20.1-4.8.4.jar"
-    },
-    {
-      "file": "immersivedamageindicators-forge-1.0.0-1.20.1.jar",
-      "sha256": "767a7e5b4794d0fbc877e9226c9a7f90eb080319b3dd37ad5328e18541a78b45",
-      "size": 430916,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/immersivedamageindicators-forge-1.0.0-1.20.1.jar"
-    },
-    {
-      "file": "immersivehotbar-1.2.2-forge-1.20.1-all.jar",
-      "sha256": "6a914777f33af72ff29a15fb717a5affd8edb1ba08078f6bc6fe79b7bffa0b40",
-      "size": 305716,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/immersivehotbar-1.2.2-forge-1.20.1-all.jar"
-    },
-    {
-      "file": "immersivemessages-forge-1.0.18-1.20.1.jar",
-      "sha256": "ae135add526bfa94a92f05be11df045d1d808a84014262cd6d771bf92ff63643",
-      "size": 1462072,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/immersivemessages-forge-1.0.18-1.20.1.jar"
-    },
-    {
-      "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
       "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
       "size": 1246753,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/mcw-doors-1.1.5-mc1.20.1forge.jar"
@@ -219,6 +91,12 @@
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+    },
+    {
+      "file": "CrewEncuestas-Forge-1.20.1-1.0.0.jar",
+      "sha256": "9b71533261c4977c0cb4d5336ea35ab8ed69fabd2263ef130021119624965e19",
+      "size": 24429,
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewEncuestas-Forge-1.20.1-1.0.0.jar"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "packVersion": 4,
+  "packVersion": 5,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -221,10 +221,10 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
     },
     {
-      "file": "CrewEncuestas-Forge-1.20.1-1.0.0.jar",
-      "sha256": "9b71533261c4977c0cb4d5336ea35ab8ed69fabd2263ef130021119624965e19",
-      "size": 24429,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewEncuestas-Forge-1.20.1-1.0.0.jar"
+      "file": "CrewEncuestas-Forge-1.20.1-1.0.1.jar",
+      "sha256": "de2eea3408094f501bc98d56705bab93b9c144fe2d8a96ad3f07e4660cd79bff",
+      "size": 21299,
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewEncuestas-Forge-1.20.1-1.0.1.jar"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "packVersion": 2,
+  "packVersion": 3,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -18,8 +18,8 @@
     },
     {
       "file": "DEDSAFIO4-Forge-1.20.1.jar",
-      "sha256": "56cca3244273230658e46c8b66aab928fda88871dd857ea08b491dd559c82657",
-      "size": 167684355,
+      "sha256": "0773df9374d52e8642742adc72880895ac466d37ddeeb1af387b7eb4410aa8c6",
+      "size": 167683503,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-Forge-1.20.1.jar"
     },
     {

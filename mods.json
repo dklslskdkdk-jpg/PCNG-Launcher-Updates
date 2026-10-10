@@ -1,5 +1,5 @@
 {
-  "packVersion": 8,
+  "packVersion": 9,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -251,10 +251,10 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-Forge-1.20.1-OPTIMIZADO.jar"
     },
     {
-      "file": "CrewSafio-Forge-1.20.1-1.0.14-OPTIMIZADO.jar",
-      "sha256": "37f70926e3c3aa378374f5d818f862080ee71c4b2eb9351026d2fce6c4618918",
-      "size": 2580836,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewSafio-Forge-1.20.1-1.0.14-OPTIMIZADO.jar"
+      "file": "CrewSafio-Forge-1.20.1-1.0.14-OPTIMIZADO-FIX-GITHUB.jar",
+      "sha256": "44bd8a197b3912f1e6a6ea6fea6e5cc14b516bc37edfd71bedd0e0c8c2cbbae1",
+      "size": 2583282,
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/CrewSafio-Forge-1.20.1-1.0.14-OPTIMIZADO-FIX-GITHUB.jar"
     }
   ]
 }

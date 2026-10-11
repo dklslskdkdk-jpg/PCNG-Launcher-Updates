@@ -1,5 +1,5 @@
 {
-  "packVersion": 12,
+  "packVersion": 13,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -125,10 +125,10 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/moonlight-1.20-2.16.36-forge.jar"
     },
     {
-      "file": "Morpher-1.0.8-CrewSafio-Palito-Golpe-BETA.jar",
-      "sha256": "1f6305897f8a10e80cf4e7844c47aa56ab4e6b34ecd1981aada2edbe6cc9abc4",
-      "size": 207192,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-1.0.8-CrewSafio-Palito-Golpe-BETA.jar"
+      "file": "Morpher-1.0.8-CrewSafio-Palito-Golpe-FIX-LOGIN-BETA.jar",
+      "sha256": "14409e99b8a8a788b3ff3fc39f1715c014f21ae59485b83d45aa9ae40d40fd4b",
+      "size": 208684,
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-1.0.8-CrewSafio-Palito-Golpe-FIX-LOGIN-BETA.jar"
     },
     {
       "file": "plasmovoice-forge-1.20.1-2.1.17.jar",

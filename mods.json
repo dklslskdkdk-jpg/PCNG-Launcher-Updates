@@ -1,188 +1,319 @@
 {
   "pack_name": "CrewSafio Minecraft Forge 1.20.1",
   "loader": "Forge",
-  "source_archive": "mods(5).zip",
-  "note": "Los repositorios GitHub se obtuvieron de displayURL/issueTrackerURL incluidos en los metadatos de cada JAR. Esto no confirma que el JAR se haya descargado desde GitHub.",
+  "source_archive": "mods (3).zip",
+  "note": "SHA256 calculado desde los JAR reales. github_repository null significa no verificado. server es una selección conservadora, no una prueba de compatibilidad; review requiere confirmar si funciona en servidor.",
+  "counts": {
+    "server": 35,
+    "client_only": 14,
+    "review": 2
+  },
   "mods": [
     {
       "file": "amendments-1.20-2.2.6.jar",
-      "mod_id": "amendments",
+      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917",
       "github_repository": "https://github.com/MehVahdJukaar/amendments",
-      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917"
+      "installation": "server"
     },
     {
       "file": "architectury-9.2.14-forge.jar",
-      "mod_id": "architectury",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
       "github_repository": "https://github.com/shedaniel/architectury",
-      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+      "installation": "server"
     },
     {
       "file": "athena-forge-1.20.1-3.1.2.jar",
-      "mod_id": "athena",
+      "sha256": "64eec9cffb8847a459536096ac396b135ffb07c7d9d13c6a47d9cd7b251276ab",
       "github_repository": "https://github.com/terrarium-earth/athena",
-      "sha256": "64eec9cffb8847a459536096ac396b135ffb07c7d9d13c6a47d9cd7b251276ab"
+      "installation": "server"
     },
     {
       "file": "balm-forge-1.20.1-7.3.44.jar",
-      "mod_id": "balm",
+      "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
       "github_repository": "https://github.com/TwelveIterations/Balm",
-      "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3"
+      "installation": "server"
+    },
+    {
+      "file": "BluAltura-1.1.0-MAGMA-SIN-MENSAJES.jar",
+      "sha256": "7080d44c4e7155759642d2ec6fe8f8eb57d7e0260fe689cd94e335fbf9f2ac0b",
+      "github_repository":,
+      "installation": "server"
     },
     {
       "file": "chipped-forge-1.20.1-3.0.7.jar",
-      "mod_id": "chipped",
+      "sha256": "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63",
       "github_repository": "https://github.com/terrarium-earth/chipped",
-      "sha256": "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63"
+      "installation": "server"
     },
     {
       "file": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
-      "mod_id": "creativecore",
-      "github_repository": "https://github.com/CreativeMD/CreativeCore",
-      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4"
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "creeperoverhaul-3.0.2-forge.jar",
+      "sha256": "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "custom-glow-enchantment-outline-forge-1.20.1-1.2.3.jar",
+      "sha256": "96f4e3ed95720ddb9c3193f7948d5331aa7343f03b264f43a2e90b85572c1c2e",
+      "github_repository":,
+      "installation": "client_only"
     },
     {
       "file": "cwb-forge-3.0.0+mc1.20.jar",
-      "mod_id": "cubes_without_borders",
+      "sha256": "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478",
       "github_repository": "https://github.com/Kir-Antipov/cubes-without-borders",
-      "sha256": "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478"
+      "installation": "client_only"
+    },
+    {
+      "file": "dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "DEDSAFIO4-1.0.0-Forge.jar",
+      "sha256": "2f8515fa4698965bbf2f7f657b64c7bd6c73e30dd76971e27bdcb235a992a49a",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "github_repository":,
+      "installation": "client_only"
     },
     {
       "file": "Emotecraft-Forge-1.20.1-SPEmotes-Integrado.jar",
-      "mod_id": "emotecraft",
+      "sha256": "7875ea25bb14de30628cac2d0611e5dd6f9dc2d6896a7749920462c586353494",
       "github_repository": "https://github.com/KosmX/emotes",
-      "sha256": "7875ea25bb14de30628cac2d0611e5dd6f9dc2d6896a7749920462c586353494"
+      "installation": "server"
     },
     {
       "file": "evercrops-1.20.1-4.3.0.jar",
-      "mod_id": "evercrops",
+      "sha256": "3c6027e4101a2509afb843c663e78f4246d742aead701d118edee7d70f3f9fd3",
       "github_repository": "https://github.com/gottsch/gottsch-minecraft-EverCrops",
-      "sha256": "3c6027e4101a2509afb843c663e78f4246d742aead701d118edee7d70f3f9fd3"
+      "installation": "server"
+    },
+    {
+      "file": "explosiveenhancement-1.2.0.jar",
+      "sha256": "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
+      "github_repository":,
+      "installation": "client_only"
+    },
+    {
+      "file": "ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "fogtools-forge-1.20.1-1.5.1.jar",
+      "sha256": "38d726abba38d87367e363b27907a05c2365bd840cb907007dd993fe6771b338",
+      "github_repository":,
+      "installation": "review"
     },
     {
       "file": "geckolib-forge-1.20.1-4.8.4.jar",
-      "mod_id": "geckolib",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
       "github_repository": "https://github.com/bernie-g/geckolib",
-      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+      "installation": "server"
     },
     {
       "file": "immersivedamageindicators-forge-1.0.0-1.20.1.jar",
-      "mod_id": "immersivedamageindicators",
+      "sha256": "767a7e5b4794d0fbc877e9226c9a7f90eb080319b3dd37ad5328e18541a78b45",
       "github_repository": "https://github.com/txnimc/ImmersiveDamageIndicators",
-      "sha256": "767a7e5b4794d0fbc877e9226c9a7f90eb080319b3dd37ad5328e18541a78b45"
+      "installation": "client_only"
+    },
+    {
+      "file": "immersivehotbar-1.2.2-forge-1.20.1-all.jar",
+      "sha256": "6a914777f33af72ff29a15fb717a5affd8edb1ba08078f6bc6fe79b7bffa0b40",
+      "github_repository":,
+      "installation": "client_only"
     },
     {
       "file": "immersivemessages-forge-1.0.18-1.20.1.jar",
-      "mod_id": "immersivemessages",
+      "sha256": "ae135add526bfa94a92f05be11df045d1d808a84014262cd6d771bf92ff63643",
       "github_repository": "https://github.com/txnimc/ImmersiveMessages",
-      "sha256": "ae135add526bfa94a92f05be11df045d1d808a84014262cd6d771bf92ff63643"
+      "installation": "client_only"
     },
     {
       "file": "ImmersiveUI-FORGE-0.3.0.jar",
-      "mod_id": "immersiveui",
+      "sha256": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
       "github_repository": "https://github.com/Octo-Studios/immersive-ui",
-      "sha256": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff"
+      "installation": "client_only"
     },
     {
       "file": "jei-1.20.1-forge-15.56.0.205.jar",
-      "mod_id": "jei",
+      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
       "github_repository": "https://github.com/mezz/JustEnoughItems",
-      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c"
+      "installation": "client_only"
+    },
+    {
+      "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+      "github_repository":,
+      "installation": "client_only"
+    },
+    {
+      "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "sha256": "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "sha256": "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+      "github_repository":,
+      "installation": "client_only"
     },
     {
       "file": "modernfix-forge-5.27.88+mc1.20.1.jar",
-      "mod_id": "modernfix",
+      "sha256": "0f4321aa704c3d7813822065675c33441759dc52b6825fa522b5a36f37e430d5",
       "github_repository": "https://github.com/embeddedt/ModernFix",
-      "sha256": "0f4321aa704c3d7813822065675c33441759dc52b6825fa522b5a36f37e430d5"
+      "installation": "server"
     },
     {
       "file": "moonlight-1.20-2.16.36-forge.jar",
-      "mod_id": "moonlight",
+      "sha256": "5e84ccc4382e027309aefc5418c98b891db14a029252fc91f404743321194f77",
       "github_repository": "https://github.com/MehVahdJukaar/Moonlight",
-      "sha256": "5e84ccc4382e027309aefc5418c98b891db14a029252fc91f404743321194f77"
+      "installation": "server"
+    },
+    {
+      "file": "Morpher-CrewSafio-FIX11-Default-2-Huesos-Todos-Emotes.jar",
+      "sha256": "a88c15efa8950bec575e5c0ea26fa2fd8f87673f28f92039607fda57ea9da607",
+      "github_repository":,
+      "installation": "server"
     },
     {
       "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "mod_id": "octolib",
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
       "github_repository": "https://github.com/SSKirillSS/octo-lib",
-      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
+      "installation": "server"
     },
     {
       "file": "Pehkui-3.8.2+1.20.1-forge.jar",
-      "mod_id": "pehkui",
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
       "github_repository": "https://github.com/Virtuoel/Pehkui",
-      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
+      "installation": "server"
     },
     {
       "file": "plasmovoice-forge-1.20.1-2.1.17.jar",
-      "mod_id": "plasmovoice",
+      "sha256": "2f2ae3a5856b44b460e72030a95318fc3657ae4c24ee3f3e16bcb5cbaa42e20d",
       "github_repository": "https://github.com/plasmoapp/plasmo-voice",
-      "sha256": "2f2ae3a5856b44b460e72030a95318fc3657ae4c24ee3f3e16bcb5cbaa42e20d"
+      "installation": "server"
+    },
+    {
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "github_repository":,
+      "installation": "server"
     },
     {
       "file": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
-      "mod_id": "resourcefulconfig",
+      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
       "github_repository": "https://github.com/Team-Resourceful/Resouceful-Config",
-      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
+      "installation": "server"
     },
     {
       "file": "resourcefullib-forge-1.20.1-2.1.29.jar",
-      "mod_id": "resourcefullib",
+      "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8",
       "github_repository": "https://github.com/Team-Resourceful/ResoucefulLib",
-      "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+      "installation": "server"
     },
     {
       "file": "supplementaries-1.20-3.1.44-forge.jar",
-      "mod_id": "supplementaries",
+      "sha256": "13c07f2b290f9f3dc8fcab8287ad699b0af16974291ad43c7cc95f8cf235a90b",
       "github_repository": "https://github.com/MehVahdJukaar/supplementaries",
-      "sha256": "13c07f2b290f9f3dc8fcab8287ad699b0af16974291ad43c7cc95f8cf235a90b"
+      "installation": "server"
+    },
+    {
+      "file": "totem-1.2.8-fix3.jar",
+      "sha256": "f37983b786ed130f1a9010e8d6128a5950e6022cc2d154701e9cce280a3d2d3c",
+      "github_repository":,
+      "installation": "server"
     },
     {
       "file": "trashslot-forge-1.20.1-15.1.5.jar",
-      "mod_id": "trashslot",
+      "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746",
       "github_repository": "https://github.com/TwelveIterations/TrashSlot",
-      "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746"
+      "installation": "client_only"
     },
     {
       "file": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
-      "mod_id": "treechop",
+      "sha256": "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f",
       "github_repository": "https://github.com/hammertater/treechop",
-      "sha256": "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f"
+      "installation": "server"
     },
     {
       "file": "txnilib-forge-1.0.24-1.20.1.jar",
-      "mod_id": "txnilib",
+      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e",
       "github_repository": "https://github.com/txnimc/TxniLib",
-      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e"
+      "installation": "server"
     },
     {
       "file": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-      "mod_id": "waterframes",
+      "sha256": "e7727c11b4d32aa25a7f1176cddef5f230f6f6b6dda3e37bf418b7f025b39ed8",
       "github_repository": "https://github.com/SrRapero720/waterframes",
-      "sha256": "e7727c11b4d32aa25a7f1176cddef5f230f6f6b6dda3e37bf418b7f025b39ed8"
+      "installation": "server"
     },
     {
       "file": "watermedia-2.1.37.jar",
-      "mod_id": "watermedia",
+      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
       "github_repository": "https://github.com/WaterMediaTeam/watermedia",
-      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
+      "installation": "server"
     },
     {
       "file": "watermedia_youtube_plugin-2.1.2.jar",
-      "mod_id": "watermedia_youtube_plugin",
+      "sha256": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e",
       "github_repository": "https://github.com/WaterMediaTeam/youtube-plugin",
-      "sha256": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e"
+      "installation": "server"
     },
     {
       "file": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
-      "mod_id": "watervision",
+      "sha256": "c04fb6d0996061c2e9d03efd2dd8eea6434355dfcb9618670bd52d632e00b90b",
       "github_repository": "https://github.com/SrRapero720/watervision",
-      "sha256": "c04fb6d0996061c2e9d03efd2dd8eea6434355dfcb9618670bd52d632e00b90b"
+      "installation": "review"
     },
     {
       "file": "waystones-forge-1.20.1-14.1.21.jar",
-      "mod_id": "waystones",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
       "github_repository": "https://github.com/TwelveIterations/Waystones",
-      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80"
+      "installation": "server"
+    },
+    {
+      "file": "worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "github_repository":,
+      "installation": "server"
+    },
+    {
+      "file": "xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "sha256": "88c6d844163c95a94d92bc6d87d9011cc840bd6207c3099a81b113d4450a3f6b",
+      "github_repository":,
+      "installation": "client_only"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "github_repository":,
+      "installation": "client_only"
     }
   ]
 }

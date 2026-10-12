@@ -1,5 +1,5 @@
 {
-  "packVersion": 14,
+  "packVersion": 15,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",

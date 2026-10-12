@@ -1,5 +1,5 @@
 {
-  "packVersion": 14,
+  "packVersion": 15,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -39,12 +39,6 @@
       "sha256": "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63",
       "size": 15060263,
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/chipped-forge-1.20.1-3.0.7.jar"
-    },
-    {
-      "file": "Connector-1.0.0-beta.49+1.20.1.jar",
-      "sha256": "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f",
-      "size": 5046108,
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Connector-1.0.0-beta.49%2B1.20.1.jar"
     },
     {
       "file": "creeperoverhaul-3.0.2-forge.jar",

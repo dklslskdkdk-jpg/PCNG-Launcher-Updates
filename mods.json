@@ -1,5 +1,5 @@
 {
-  "packVersion": 15,
+  "packVersion": 16,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -71,10 +71,10 @@
       "size": 7366550
     },
     {
-      "file": "DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT",
+      "file": "DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
-      "sha256": "2f8515fa4698965bbf2f7f657b64c7bd6c73e30dd76971e27bdcb235a992a49a",
-      "size": 86572085
+      "sha256": "4d71103fcc56221080f0e6f95d7e83d7c3afa2f3d6a5d52b0a014b9514497df0",
+      "size": 53668932
     },
     {
       "file": "embeddium-0.3.31+mc1.20.1.jar",

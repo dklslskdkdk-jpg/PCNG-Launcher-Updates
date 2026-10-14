@@ -1,5 +1,5 @@
 {
-  "packVersion": 23,
+  "packVersion": 24,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -315,6 +315,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Revive-Forge-1.20.1-1.0.1.jar",
       "sha256": "fe6a91b323b73c73644c154fc0444b6efd1b851c8eb3dc56e55df4962f291cff",
       "size": 21262
+    },
+    {
+      "file": "Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
+      "sha256": "93e8c14857c6fa3d35a80511f914d7a875bb6326088af0ef857c63c9658eff1a",
+      "size": 10979
     }
   ]
 }

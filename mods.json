@@ -1,5 +1,5 @@
 {
-  "packVersion": 19,
+  "packVersion": 20,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -191,10 +191,10 @@
       "size": 1425231
     },
     {
-      "file": "Morpher-CrewSafio-FIX11-Default-2-Huesos-Todos-Emotes.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-CrewSafio-FIX11-Default-2-Huesos-Todos-Emotes.jar",
-      "sha256": "a88c15efa8950bec575e5c0ea26fa2fd8f87673f28f92039607fda57ea9da607",
-      "size": 249189
+      "file": "Morpher-CrewSafio-FIX12-Kaballo.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-CrewSafio-FIX12-Kaballo.jar",
+      "sha256": "e0299f51ca60e15b9f5cf916173ea8895b32004d90df23448760d2c6c53c9933",
+      "size": 255936
     },
     {
       "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",

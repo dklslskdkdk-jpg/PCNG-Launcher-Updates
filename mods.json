@@ -1,5 +1,5 @@
 {
-  "packVersion": 21,
+  "packVersion": 22,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -191,8 +191,8 @@
       "size": 1425231
     },
     {
-      "file": "Morpher-CrewSafio-FIX12-Kaballo.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-CrewSafio-FIX12-Kaballo.jar",
+      "file": "Morpher-CrewSafio-FIX12-Kaballo-ANIMACIONES-CRASHFIX-V2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-CrewSafio-FIX12-Kaballo-ANIMACIONES-CRASHFIX-V2.jar",
       "sha256": "2ada3d932efd8d87d536a189035a2bfc4dfa2795742e568e97b564781e14a8b7",
       "size": 262898
     },

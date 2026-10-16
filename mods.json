@@ -1,5 +1,5 @@
 {
-  "packVersion": 25,
+  "packVersion": 26,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -71,10 +71,28 @@
       "size": 7366550
     },
     {
+      "file": "dedsafio3-tienda-1_0_1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-tienda-1_0_1.jar",
+      "sha256": "46f7400d9060c296e7514861e53779db47af2e9ac5d80ed2941d3872d4bad858",
+      "size": 27617
+    },
+    {
       "file": "DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
       "sha256": "4d71103fcc56221080f0e6f95d7e83d7c3afa2f3d6a5d52b0a014b9514497df0",
       "size": 53668932
+    },
+    {
+      "file": "Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
+      "sha256": "93e8c14857c6fa3d35a80511f914d7a875bb6326088af0ef857c63c9658eff1a",
+      "size": 10979
+    },
+    {
+      "file": "Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
+      "sha256": "f3d5f44c48b853be513661cec75af394c080813cfcc6c23b87f81df5c9ac1454",
+      "size": 24690
     },
     {
       "file": "embeddium-0.3.31+mc1.20.1.jar",
@@ -191,10 +209,10 @@
       "size": 1425231
     },
     {
-      "file": "Morpher-CrewSafio-FIX12-Kaballo-ANIMACIONES-CRASHFIX-V2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-CrewSafio-FIX12-Kaballo-ANIMACIONES-CRASHFIX-V2.jar",
-      "sha256": "2ada3d932efd8d87d536a189035a2bfc4dfa2795742e568e97b564781e14a8b7",
-      "size": 262898
+      "file": "morpher-1_0_9-con-morphs.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/morpher-1_0_9-con-morphs.jar",
+      "sha256": "e6ca47915f5763ad25d00aa8f4b71183b043e2aba41d508a25fe4f2d0370149c",
+      "size": 241271
     },
     {
       "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
@@ -309,18 +327,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891
-    },
-    {
-      "file": "Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
-      "sha256": "f3d5f44c48b853be513661cec75af394c080813cfcc6c23b87f81df5c9ac1454",
-      "size": 24690
-    },
-    {
-      "file": "Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
-      "sha256": "93e8c14857c6fa3d35a80511f914d7a875bb6326088af0ef857c63c9658eff1a",
-      "size": 10979
     }
   ]
 }

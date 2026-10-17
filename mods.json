@@ -1,5 +1,5 @@
 {
-  "packVersion": 26,
+  "packVersion": 27,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -327,6 +327,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891
+    },
+    {
+      "file": "touch_n_motion_forge_1.20.1_1.0.4.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/touch_n_motion_forge_1.20.1_1.0.4.jar",
+      "sha256": "2efdf890123e4924427d17f5f2541817b0f09d574d0f86a3988755979dd79165",
+      "size": 991635
     }
   ]
 }

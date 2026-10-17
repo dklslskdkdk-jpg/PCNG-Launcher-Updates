@@ -1,5 +1,5 @@
 {
-  "packVersion": 27,
+  "packVersion": 28,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -333,6 +333,18 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/touch_n_motion_forge_1.20.1_1.0.4.jar",
       "sha256": "2efdf890123e4924427d17f5f2541817b0f09d574d0f86a3988755979dd79165",
       "size": 991635
+    },
+    {
+      "file": "entity_model_features-3.3.12-1.20.1-forge.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_model_features-3.3.12-1.20.1-forge.jar",
+      "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
+      "size": 840669
+    },
+    {
+      "file": "emf_compat_core_forge_1.20.1_2.3.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/emf_compat_core_forge_1.20.1_2.3.2.jar",
+      "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
+      "size": 176330
     }
   ]
 }

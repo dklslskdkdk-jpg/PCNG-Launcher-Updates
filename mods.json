@@ -1,5 +1,5 @@
 {
-  "packVersion": 28,
+  "packVersion": 29,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -345,6 +345,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/emf_compat_core_forge_1.20.1_2.3.2.jar",
       "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
       "size": 176330
+    },
+    {
+      "file": "entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "sha256": "8ac703b90ec6709e702beb27948ba4064f14fe1e322f13947399eff7486263e3",
+      "size": 999570
     }
   ]
 }

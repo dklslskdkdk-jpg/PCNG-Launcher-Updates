@@ -363,6 +363,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891
+    },
+    {
+      "file": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "size": 370524
     }
   ]
 }

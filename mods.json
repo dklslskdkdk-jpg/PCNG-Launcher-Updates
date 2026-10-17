@@ -101,10 +101,28 @@
       "size": 1320675
     },
     {
+      "file": "emf_compat_core_forge_1.20.1_2.3.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/emf_compat_core_forge_1.20.1_2.3.2.jar",
+      "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
+      "size": 176330
+    },
+    {
       "file": "Emotecraft-Forge-1.20.1-SPEmotes-Integrado.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Emotecraft-Forge-1.20.1-SPEmotes-Integrado.jar",
       "sha256": "7875ea25bb14de30628cac2d0611e5dd6f9dc2d6896a7749920462c586353494",
       "size": 54208567
+    },
+    {
+      "file": "entity_model_features-3.3.12-1.20.1-forge.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_model_features-3.3.12-1.20.1-forge.jar",
+      "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
+      "size": 840669
+    },
+    {
+      "file": "entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "sha256": "8ac703b90ec6709e702beb27948ba4064f14fe1e322f13947399eff7486263e3",
+      "size": 999570
     },
     {
       "file": "evercrops-1.20.1-4.3.0.jar",
@@ -117,6 +135,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/explosiveenhancement-1.2.0.jar",
       "sha256": "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
       "size": 97476
+    },
+    {
+      "file": "faplayer-forge-1.20.1-1.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/faplayer-forge-1.20.1-1.1.jar",
+      "sha256": "bf5bcfe6c8db7b861069b9b6f0932dd099459b84198f5f8e324462ecc00c73bd",
+      "size": 110490
     },
     {
       "file": "ferritecore-6.0.1-forge.jar",
@@ -263,6 +287,12 @@
       "size": 58354
     },
     {
+      "file": "touch_n_motion_forge_1.20.1_1.0.4.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/touch_n_motion_forge_1.20.1_1.0.4.jar",
+      "sha256": "2efdf890123e4924427d17f5f2541817b0f09d574d0f86a3988755979dd79165",
+      "size": 991635
+    },
+    {
       "file": "trashslot-forge-1.20.1-15.1.5.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/trashslot-forge-1.20.1-15.1.5.jar",
       "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746",
@@ -327,30 +357,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891
-    },
-    {
-      "file": "touch_n_motion_forge_1.20.1_1.0.4.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/touch_n_motion_forge_1.20.1_1.0.4.jar",
-      "sha256": "2efdf890123e4924427d17f5f2541817b0f09d574d0f86a3988755979dd79165",
-      "size": 991635
-    },
-    {
-      "file": "entity_model_features-3.3.12-1.20.1-forge.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_model_features-3.3.12-1.20.1-forge.jar",
-      "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
-      "size": 840669
-    },
-    {
-      "file": "emf_compat_core_forge_1.20.1_2.3.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/emf_compat_core_forge_1.20.1_2.3.2.jar",
-      "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
-      "size": 176330
-    },
-    {
-      "file": "entity_texture_features-7.2.6-1.20.1-forge.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/entity_texture_features-7.2.6-1.20.1-forge.jar",
-      "sha256": "8ac703b90ec6709e702beb27948ba4064f14fe1e322f13947399eff7486263e3",
-      "size": 999570
     }
   ]
 }

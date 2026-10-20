@@ -1,5 +1,5 @@
 {
-  "packVersion": 29,
+  "packVersion": 30,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -83,18 +83,6 @@
       "size": 53668932
     },
     {
-      "file": "Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Deny-Forge-1.20.1-1.0.1.jar",
-      "sha256": "93e8c14857c6fa3d35a80511f914d7a875bb6326088af0ef857c63c9658eff1a",
-      "size": 10979
-    },
-    {
-      "file": "Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Revive-Forge-1.20.1-1.0.2.jar",
-      "sha256": "f3d5f44c48b853be513661cec75af394c080813cfcc6c23b87f81df5c9ac1454",
-      "size": 24690
-    },
-    {
       "file": "embeddium-0.3.31+mc1.20.1.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
@@ -105,12 +93,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/emf_compat_core_forge_1.20.1_2.3.2.jar",
       "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
       "size": 176330
-    },
-    {
-      "file": "Emotecraft-Forge-1.20.1-SPEmotes-Integrado.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Emotecraft-Forge-1.20.1-SPEmotes-Integrado.jar",
-      "sha256": "7875ea25bb14de30628cac2d0611e5dd6f9dc2d6896a7749920462c586353494",
-      "size": 54208567
     },
     {
       "file": "entity_model_features-3.3.12-1.20.1-forge.jar",
@@ -231,12 +213,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/moonlight-1.20-2.16.36-forge.jar",
       "sha256": "5e84ccc4382e027309aefc5418c98b891db14a029252fc91f404743321194f77",
       "size": 1425231
-    },
-    {
-      "file": "morpher-1_0_9-con-morphs.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/morpher-1_0_9-con-morphs.jar",
-      "sha256": "e6ca47915f5763ad25d00aa8f4b71183b043e2aba41d508a25fe4f2d0370149c",
-      "size": 241271
     },
     {
       "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
@@ -369,6 +345,36 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/YungsApi-1.20-Forge-4.0.6.jar",
       "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
       "size": 370524
+    },
+    {
+      "file": "Dedsafio4-Revive-Forge-1.20.1-1.0.4-Revivir-Todos.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Revive-Forge-1.20.1-1.0.4-Revivir-Todos.jar",
+      "sha256": "f89b666e359a4b90c5a0349b0232bdeda98fac562f33f6a04651627c1b37b230",
+      "size": 34509
+    },
+    {
+      "file": "Dedsafio4-Deny-Forge-1.20.1-1.0.3-Proteccion-Admins.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Dedsafio4-Deny-Forge-1.20.1-1.0.3-Proteccion-Admins.jar",
+      "sha256": "103466abf2dc09f68b388cbdac0da5453f27bf2c151483557d4356097e34da1d",
+      "size": 13698
+    },
+    {
+      "file": "Emotecraft-CrewSafio-Rueda-Dorada-FIX1-SinCrash-Forge-1.20.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Emotecraft-CrewSafio-Rueda-Dorada-FIX1-SinCrash-Forge-1.20.1.jar",
+      "sha256": "fb299f5bdb3f0894cc8c57f1de97d7933ee9cfcf6ff693cfd217f61c8820080c",
+      "size": 54330220
+    },
+    {
+      "file": "Morpher-Blu-FIX5-Armaduras-Emotecraft-Forge-1.20.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-Blu-FIX5-Armaduras-Emotecraft-Forge-1.20.1.jar",
+      "sha256": "70d4f8e39cb17dd88f67579a56ed07e4a68375f6f7d0f013ac0cfbce8b23a42f",
+      "size": 263056
+    },
+    {
+      "file": "BLU-Creeper-Nuclear-Forge-1.20.1-Sin-Pehkui-1.0.3.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/BLU-Creeper-Nuclear-Forge-1.20.1-Sin-Pehkui-1.0.3.jar",
+      "sha256": "3ac07c0acfbdc8194e329cea0be9ad4531a73ecff9cd75a53e560ba342a6e5ae",
+      "size": 13689
     }
   ]
 }

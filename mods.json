@@ -1,5 +1,5 @@
 {
-  "packVersion": 30,
+  "packVersion": 31,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -75,12 +75,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-tienda-1_0_1.jar",
       "sha256": "46f7400d9060c296e7514861e53779db47af2e9ac5d80ed2941d3872d4bad858",
       "size": 27617
-    },
-    {
-      "file": "DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-1.0.0-Forge-FIX-SERVER-OPT.jar",
-      "sha256": "4d71103fcc56221080f0e6f95d7e83d7c3afa2f3d6a5d52b0a014b9514497df0",
-      "size": 53668932
     },
     {
       "file": "embeddium-0.3.31+mc1.20.1.jar",
@@ -375,6 +369,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/BLU-Creeper-Nuclear-Forge-1.20.1-Sin-Pehkui-1.0.3.jar",
       "sha256": "3ac07c0acfbdc8194e329cea0be9ad4531a73ecff9cd75a53e560ba342a6e5ae",
       "size": 13689
+    },
+    {
+      "file": "DEDSAFIO4-V15-Giro-Suave-Color-Forge-1.20.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-V15-Giro-Suave-Color-Forge-1.20.1.jar",
+      "sha256": "0d66f5779bdf52badcda526ff011234a3fbf7599a1cd450e25d7c9bf0bcb13c4",
+      "size": 129185470
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "packVersion": 31,
+  "packVersion": 32,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -101,10 +101,10 @@
       "size": 999570
     },
     {
-      "file": "evercrops-1.20.1-4.3.0.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/evercrops-1.20.1-4.3.0.jar",
-      "sha256": "3c6027e4101a2509afb843c663e78f4246d742aead701d118edee7d70f3f9fd3",
-      "size": 260009
+      "file": "evercrops-1.20.1-4.4.0.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/evercrops-1.20.1-4.4.0.jar",
+      "sha256": "c27a047f766736a6db1b76554cb47aa7decf5c6238c298d7d3f030e326cb75ea",
+      "size": 278020
     },
     {
       "file": "explosiveenhancement-1.2.0.jar",
@@ -197,16 +197,16 @@
       "size": 37178
     },
     {
-      "file": "modernfix-forge-5.27.88+mc1.20.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/modernfix-forge-5.27.88%2Bmc1.20.1.jar",
-      "sha256": "0f4321aa704c3d7813822065675c33441759dc52b6825fa522b5a36f37e430d5",
-      "size": 1009661
+      "file": "modernfix-forge-5.27.89+mc1.20.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/modernfix-forge-5.27.89%2Bmc1.20.1.jar",
+      "sha256": "96750ec3e12b581ee7a936ce2b7c2b35251e97b6f729b2db8bc0d5c9a2dc12fa",
+      "size": 1010226
     },
     {
-      "file": "moonlight-1.20-2.16.36-forge.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/moonlight-1.20-2.16.36-forge.jar",
-      "sha256": "5e84ccc4382e027309aefc5418c98b891db14a029252fc91f404743321194f77",
-      "size": 1425231
+      "file": "moonlight-1.20-2.16.37-forge.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/moonlight-1.20-2.16.37-forge.jar",
+      "sha256": "0cf5a628fd2dcde4a87b9e596657684c409836414fc86cbe110f3858824dc971",
+      "size": 1421904
     },
     {
       "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
@@ -359,10 +359,10 @@
       "size": 54330220
     },
     {
-      "file": "Morpher-Blu-FIX5-Armaduras-Emotecraft-Forge-1.20.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-Blu-FIX5-Armaduras-Emotecraft-Forge-1.20.1.jar",
-      "sha256": "70d4f8e39cb17dd88f67579a56ed07e4a68375f6f7d0f013ac0cfbce8b23a42f",
-      "size": 263056
+      "file": "Morpher-Megumin-v2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-Megumin-v2.jar",
+      "sha256": "a90e8a77eb03c945b3555679a6fd8bc206d3352fa46d7b0f77dcc390bd6149d8",
+      "size": 288952
     },
     {
       "file": "BLU-Creeper-Nuclear-Forge-1.20.1-Sin-Pehkui-1.0.3.jar",

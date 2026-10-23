@@ -1,5 +1,5 @@
 {
-  "packVersion": 36,
+  "packVersion": 37,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -393,6 +393,18 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/ManyIdeasCore-1.20.1-1.6.1.jar",
       "sha256": "153b8497afa1df3ff643224078b0bca5cce7cd1ac9668df7fa068a22a2248849",
       "size": 956287
+    },
+    {
+      "file": "BloqueLetras-Forge-1.20.1-1.0.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/BloqueLetras-Forge-1.20.1-1.0.1.jar",
+      "sha256": "b1f2009ad9ab9f347af03b509f74991c45360852b2a9e4965e23a6854411c0a3",
+      "size": 137512
+    },
+    {
+      "file": "DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar",
+      "sha256": "92ec8bcbf9adbfb369b39daf8bfb09e34643483c8500131a93620a355701b9c8",
+      "size": 86624
     }
   ]
 }

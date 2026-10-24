@@ -1,5 +1,5 @@
 {
-  "packVersion": 37,
+  "packVersion": 38,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -378,7 +378,7 @@
     },
     {
       "file": "luminous_halloween-1.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Luminous.Halloween.V1.2.-.Forge.1.20.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/luminous_halloween-1.2.jar",
       "sha256": "72f677c65456b65eae6eb84a59625d53af27abbcf19b2c5d7e086d0a869d9c53",
       "size": 1382863
     },
@@ -402,7 +402,7 @@
     },
     {
       "file": "DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar?download=1&pack=38",
       "sha256": "92ec8bcbf9adbfb369b39daf8bfb09e34643483c8500131a93620a355701b9c8",
       "size": 86624
     }

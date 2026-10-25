@@ -1,5 +1,5 @@
 {
-  "packVersion": 38,
+  "packVersion": 39,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -371,10 +371,10 @@
       "size": 13689
     },
     {
-      "file": "DEDSAFIO4-V15-Giro-Suave-Color-Forge-1.20.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4-V15-Giro-Suave-Color-Forge-1.20.1.jar",
-      "sha256": "0d66f5779bdf52badcda526ff011234a3fbf7599a1cd450e25d7c9bf0bcb13c4",
-      "size": 129185470
+      "file": "DEDSAFIO4FAN-Ruleta-Forge-1.20.1-0.9.1-EXPERIMENTAL.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4FAN-Ruleta-Forge-1.20.1-0.9.1-EXPERIMENTAL.jar",
+      "sha256": "c599e158821b16e4ef90e33601e75096601e78a34571d6c022bb6f7a7cc26e73",
+      "size": 284267540
     },
     {
       "file": "luminous_halloween-1.2.jar",

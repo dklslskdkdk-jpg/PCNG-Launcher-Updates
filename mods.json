@@ -1,5 +1,5 @@
 {
-  "packVersion": 39,
+  "packVersion": 40,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -65,12 +65,6 @@
       "size": 258613
     },
     {
-      "file": "dedsafio3-0.0.9-forge-1.20.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1.jar",
-      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6",
-      "size": 7366550
-    },
-    {
       "file": "dedsafio3-tienda-1_0_1.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-tienda-1_0_1.jar",
       "sha256": "46f7400d9060c296e7514861e53779db47af2e9ac5d80ed2941d3872d4bad858",
@@ -123,12 +117,6 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/ferritecore-6.0.1-forge.jar",
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
       "size": 123034
-    },
-    {
-      "file": "fogtools-forge-1.20.1-1.5.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/fogtools-forge-1.20.1-1.5.1.jar",
-      "sha256": "38d726abba38d87367e363b27907a05c2365bd840cb907007dd993fe6771b338",
-      "size": 142148
     },
     {
       "file": "geckolib-forge-1.20.1-4.8.4.jar",
@@ -257,12 +245,6 @@
       "size": 13686603
     },
     {
-      "file": "totem-1.2.8-fix3.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/totem-1.2.8-fix3.jar",
-      "sha256": "f37983b786ed130f1a9010e8d6128a5950e6022cc2d154701e9cce280a3d2d3c",
-      "size": 58354
-    },
-    {
       "file": "touch_n_motion_forge_1.20.1_1.0.4.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/touch_n_motion_forge_1.20.1_1.0.4.jar",
       "sha256": "2efdf890123e4924427d17f5f2541817b0f09d574d0f86a3988755979dd79165",
@@ -371,12 +353,6 @@
       "size": 13689
     },
     {
-      "file": "DEDSAFIO4FAN-Ruleta-Forge-1.20.1-0.9.1-EXPERIMENTAL.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4FAN-Ruleta-Forge-1.20.1-0.9.1-EXPERIMENTAL.jar",
-      "sha256": "c599e158821b16e4ef90e33601e75096601e78a34571d6c022bb6f7a7cc26e73",
-      "size": 284267540
-    },
-    {
       "file": "luminous_halloween-1.2.jar",
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/luminous_halloween-1.2.jar",
       "sha256": "72f677c65456b65eae6eb84a59625d53af27abbcf19b2c5d7e086d0a869d9c53",
@@ -401,10 +377,40 @@
       "size": 137512
     },
     {
-      "file": "DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DimensionesPersonalizadas-Forge-1.20.1-1.0.2.jar?download=1&pack=38",
-      "sha256": "92ec8bcbf9adbfb369b39daf8bfb09e34643483c8500131a93620a355701b9c8",
-      "size": 86624
+      "file": "Blu-MobSpawn-Control-Forge-1.20.1-1.0.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Blu-MobSpawn-Control-Forge-1.20.1-1.0.2.jar",
+      "sha256": "f540d118605181a7a826546825369e8b1d7d1758342c2ad598f965d9b8b933b3",
+      "size": 23684
+    },
+    {
+      "file": "Blu-Waystones-Control-Forge-1.20.1-1.1.0.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Blu-Waystones-Control-Forge-1.20.1-1.1.0.jar",
+      "sha256": "e1746b8469908231a058568bbd1058114553c9dfc64e0d03bdeb8e52cbe2dadf",
+      "size": 11047
+    },
+    {
+      "file": "DEDSAFIO4FAN-Forge-1.20.1-almas-keep-peak-FIX5.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DEDSAFIO4FAN-Forge-1.20.1-almas-keep-peak-FIX5.jar",
+      "sha256": "4a872bac515709e1e6b842deaa44f25f6b92903b2d03410ff8c0586fb7ace967",
+      "size": 284204399
+    },
+    {
+      "file": "DimensionesPersonalizadas-Forge-1.20.1-1.4.0-protect.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/DimensionesPersonalizadas-Forge-1.20.1-1.4.0-protect.jar",
+      "sha256": "c689e6a5aafa5d1c9a65d43573c2d206367ce8eff5f9dadd4df5c78ff402ebc3",
+      "size": 186580
+    },
+    {
+      "file": "SpectadorBlu-Forge-1.20.1-1.0.0.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/SpectadorBlu-Forge-1.20.1-1.0.0.jar",
+      "sha256": "ffe96df81879ceff3bfa045d41f7d0be45f60fc7cde5c655d9bb1ce655c07d06",
+      "size": 8320
+    },
+    {
+      "file": "dedsafio3-0.0.9-forge-1.20.1-inventario-fix.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-inventario-fix.jar",
+      "sha256": "58b6a4b09908b65d6eaf8fb11dd36a02003c461842a8b418e2deae96d137b5ab",
+      "size": 7639833
     }
   ]
 }

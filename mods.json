@@ -1,5 +1,5 @@
 {
-  "packVersion": 42,
+  "packVersion": 43,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -401,10 +401,10 @@
       "size": 8320
     },
     {
-      "file": "dedsafio3-0.0.9-forge-1.20.1-bolsas-fix.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-bolsas-fix.jar",
-      "sha256": "852b9f79429186af0d379d7bec9e2187a1422fea689ec8dbbb88c92ba5dc72d8",
-      "size": 7640850
+      "file": "dedsafio3-0.0.9-forge-1.20.1-negro-y-armadura-fix.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-negro-y-armadura-fix.jar",
+      "sha256": "6a5b3b84aa21bdd832351cba00f00544f144b3acb09cb8b93edb779e59b026de",
+      "size": 7392664
     }
   ]
 }

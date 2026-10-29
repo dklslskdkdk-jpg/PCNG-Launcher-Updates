@@ -1,5 +1,5 @@
 {
-  "packVersion": 44,
+  "packVersion": 45,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -401,10 +401,10 @@
       "size": 8320
     },
     {
-      "file": "dedsafio3-0.0.9-forge-1.20.1-velocidades-fix.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-velocidades-fix.jar",
-      "sha256": "f09fdb2c74c35daccab2602d2ebc2f7d042544ac7e0c4f0c2c43329a4fed8165",
-      "size": 7392664
+      "file": "dedsafio3-0.0.9-forge-1.20.1-vuelo-suelo-fix.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-vuelo-suelo-fix.jar",
+      "sha256": "7a9ba03d7463fd36eee50a3d1782c373f06ab4983dacc6ffdebb746510206544",
+      "size": 7392710
     }
   ]
 }

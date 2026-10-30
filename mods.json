@@ -1,5 +1,5 @@
 {
-  "packVersion": 45,
+  "packVersion": 46,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -405,6 +405,24 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/dedsafio3-0.0.9-forge-1.20.1-vuelo-suelo-fix.jar",
       "sha256": "7a9ba03d7463fd36eee50a3d1782c373f06ab4983dacc6ffdebb746510206544",
       "size": 7392710
+    },
+    {
+      "file": "portal-verde-forge-1.20.1-1.0.1.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/portal-verde-forge-1.20.1-1.0.1.jar",
+      "sha256": "6137eec07911aad2e2261f371290d74ce0ab76fe24e06d47cdf2892aa90a09d5",
+      "size": 1104182
+    },
+    {
+      "file": "armadura-blu-3d-forge-1.20.1-1.1.5.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/armadura-blu-3d-forge-1.20.1-1.1.5.jar",
+      "sha256": "54b54421ddb44984dd97b58a9a63ba4002ec00dbc252e860288ffda3d9b8a5af",
+      "size": 39904
+    },
+    {
+      "file": "slopstrocity-forge-1.20.1-1.1.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/slopstrocity-forge-1.20.1-1.1.2.jar",
+      "sha256": "e700fdb7307f5bb496be1fd1e80debc75a3414d4e2fcf4dc4257328509a4eb1f",
+      "size": 972948
     }
   ]
 }

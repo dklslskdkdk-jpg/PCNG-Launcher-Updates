@@ -1,5 +1,5 @@
 {
-  "packVersion": 46,
+  "packVersion": 47,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -407,10 +407,10 @@
       "size": 7392710
     },
     {
-      "file": "portal-verde-forge-1.20.1-1.0.1.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/portal-verde-forge-1.20.1-1.0.1.jar",
-      "sha256": "6137eec07911aad2e2261f371290d74ce0ab76fe24e06d47cdf2892aa90a09d5",
-      "size": 1104182
+      "file": "portal-verde-forge-1.20.1-1.0.2.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/portal-verde-forge-1.20.1-1.0.2.jar",
+      "sha256": "7cb902ef1b0a9e5631aaaecbeb9dafa7efe3f2e13ab788abb50b8089ec509260",
+      "size": 1105626
     },
     {
       "file": "armadura-blu-3d-forge-1.20.1-1.1.5.jar",
@@ -423,6 +423,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/slopstrocity-forge-1.20.1-1.1.2.jar",
       "sha256": "e700fdb7307f5bb496be1fd1e80debc75a3414d4e2fcf4dc4257328509a4eb1f",
       "size": 972948
+    },
+    {
+      "file": "bosque-hueco-forge-1.20.1-1.2.0.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/bosque-hueco-forge-1.20.1-1.2.0.jar",
+      "sha256": "316f2a61e0a08f541996be84f7df4047bcdb8434bb9eb7cc6f49e945f86138cd",
+      "size": 177686
     }
   ]
 }

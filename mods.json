@@ -1,5 +1,5 @@
 {
-  "packVersion": 49,
+  "packVersion": 50,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -425,10 +425,10 @@
       "size": 972948
     },
     {
-      "file": "bosque-hueco-forge-1.20.1-1.2.0.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/bosque-hueco-forge-1.20.1-1.2.0.jar",
-      "sha256": "316f2a61e0a08f541996be84f7df4047bcdb8434bb9eb7cc6f49e945f86138cd",
-      "size": 177686
+      "file": "bosque-hueco-forge-1.20.1-1.2.8.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/bosque-hueco-forge-1.20.1-1.2.8.jar",
+      "sha256": "97183dd499f008b0149de1434696a7f2b9fc10d954bf6aa1ba8da46081d0c518",
+      "size": 163133
     },
     {
       "file": "objeto-dimension-forge-1.20.1-1.0.0.jar",

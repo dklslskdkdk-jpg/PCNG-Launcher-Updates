@@ -1,5 +1,5 @@
 {
-  "packVersion": 51,
+  "packVersion": 52,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -335,10 +335,10 @@
       "size": 54330220
     },
     {
-      "file": "Morpher-Megumin-v2.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/Morpher-Megumin-v2.jar",
-      "sha256": "a90e8a77eb03c945b3555679a6fd8bc206d3352fa46d7b0f77dcc390bd6149d8",
-      "size": 288952
+      "file": "morpher.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/morpher.jar",
+      "sha256": "7a22b31a6a8d1faab91d0dbd5c2e19b05f79359a1ff6f4cd3de1417be95b3274",
+      "size": 334512
     },
     {
       "file": "BLU-Creeper-Nuclear-Forge-1.20.1-Sin-Pehkui-1.0.3.jar",
@@ -437,10 +437,10 @@
       "size": 17551
     },
     {
-      "file": "manzanas-vacio-forge-1.20.1-1.0.5.jar",
-      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/manzanas-vacio-forge-1.20.1-1.0.5.jar",
-      "sha256": "218ade377a120fd5bceab0fa9443fa0f107e8b9ff3ffd6aeaa08e7b553d7b258",
-      "size": 21791
+      "file": "manzanas-vacio-forge-1.20.1-1.0.9.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/manzanas-vacio-forge-1.20.1-1.0.9.jar",
+      "sha256": "d7ed6dd1457b98d93331dc87af6898d423a5e03cdefba7d7944724d0b7a4e4eb",
+      "size": 23736
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "packVersion": 50,
+  "packVersion": 51,
   "minecraft": "1.20.1",
   "loader": "forge",
   "server": "15.204.49.1:25600",
@@ -435,6 +435,12 @@
       "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/objeto-dimension-forge-1.20.1-1.0.0.jar",
       "sha256": "818323dedac5f2e602cb716fb9ae14fee9aebd72a599295612f4fd5ed389628c",
       "size": 17551
+    },
+    {
+      "file": "manzanas-vacio-forge-1.20.1-1.0.5.jar",
+      "url": "https://github.com/dklslskdkdk-jpg/PCNG-Launcher-Updates/releases/download/crewsafio-v1/manzanas-vacio-forge-1.20.1-1.0.5.jar",
+      "sha256": "218ade377a120fd5bceab0fa9443fa0f107e8b9ff3ffd6aeaa08e7b553d7b258",
+      "size": 21791
     }
   ]
 }
